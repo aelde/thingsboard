@@ -36,14 +36,92 @@
     "credentialsType" : "ACCESS_TOKEN",
     "credentialsValue" : null
   },
-  "relations" : [ ],
+  "relations" : [ {
+    "additionalInfo" : null,
+    "from" : {
+      "entityType" : "DEVICE",
+      "id" : "86ac5be0-da56-11ef-9944-578fa0af1991"
+    },
+    "to" : {
+      "entityType" : "DEVICE",
+      "id" : "e2c4e1f0-db13-11ef-9944-578fa0af1991"
+    },
+    "type" : "Created",
+    "typeGroup" : "COMMON",
+    "version" : 89
+  }, {
+    "additionalInfo" : null,
+    "from" : {
+      "entityType" : "DEVICE",
+      "id" : "86ac5be0-da56-11ef-9944-578fa0af1991"
+    },
+    "to" : {
+      "entityType" : "DEVICE",
+      "id" : "e2dc6190-db13-11ef-9944-578fa0af1991"
+    },
+    "type" : "Created",
+    "typeGroup" : "COMMON",
+    "version" : 90
+  }, {
+    "additionalInfo" : null,
+    "from" : {
+      "entityType" : "DEVICE",
+      "id" : "86ac5be0-da56-11ef-9944-578fa0af1991"
+    },
+    "to" : {
+      "entityType" : "DEVICE",
+      "id" : "e2e00b10-db13-11ef-9944-578fa0af1991"
+    },
+    "type" : "Created",
+    "typeGroup" : "COMMON",
+    "version" : 91
+  }, {
+    "additionalInfo" : null,
+    "from" : {
+      "entityType" : "DEVICE",
+      "id" : "86ac5be0-da56-11ef-9944-578fa0af1991"
+    },
+    "to" : {
+      "entityType" : "DEVICE",
+      "id" : "e2e3dba0-db13-11ef-9944-578fa0af1991"
+    },
+    "type" : "Created",
+    "typeGroup" : "COMMON",
+    "version" : 92
+  }, {
+    "additionalInfo" : null,
+    "from" : {
+      "entityType" : "DEVICE",
+      "id" : "86ac5be0-da56-11ef-9944-578fa0af1991"
+    },
+    "to" : {
+      "entityType" : "DEVICE",
+      "id" : "e2eba3d0-db13-11ef-9944-578fa0af1991"
+    },
+    "type" : "Created",
+    "typeGroup" : "COMMON",
+    "version" : 93
+  }, {
+    "additionalInfo" : null,
+    "from" : {
+      "entityType" : "DEVICE",
+      "id" : "86ac5be0-da56-11ef-9944-578fa0af1991"
+    },
+    "to" : {
+      "entityType" : "DEVICE",
+      "id" : "e2eba3d1-db13-11ef-9944-578fa0af1991"
+    },
+    "type" : "Created",
+    "typeGroup" : "COMMON",
+    "version" : 94
+  } ],
   "attributes" : {
     "SERVER_SCOPE" : [ {
       "booleanValue" : false,
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "active",
-      "lastUpdateTs" : 1737725669665,
+      "lastUpdateTs" : 1737809382253,
       "longValue" : null,
       "strValue" : null
     }, {
@@ -51,8 +129,32 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "inactivityAlarmTime",
-      "lastUpdateTs" : 1737725669665,
-      "longValue" : 1737725669665,
+      "lastUpdateTs" : 1737809382253,
+      "longValue" : 1737809382251,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "lastActivityTime",
+      "lastUpdateTs" : 1737808759109,
+      "longValue" : 1737808756912,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "lastConnectTime",
+      "lastUpdateTs" : 1737806092652,
+      "longValue" : 1737806092652,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "lastDisconnectTime",
+      "lastUpdateTs" : 1737808756932,
+      "longValue" : 1737808756932,
       "strValue" : null
     } ],
     "SHARED_SCOPE" : [ {

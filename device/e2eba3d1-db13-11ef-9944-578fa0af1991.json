@@ -2,9 +2,6 @@
   "entityType" : "DEVICE",
   "entity" : {
     "additionalInfo" : {
-      "gateway" : false,
-      "overwriteActivityTime" : false,
-      "description" : "",
       "lastConnectedGateway" : "86ac5be0-da56-11ef-9944-578fa0af1991"
     },
     "customerId" : {
@@ -21,25 +18,38 @@
     },
     "deviceProfileId" : {
       "entityType" : "DEVICE_PROFILE",
-      "id" : "6ea17230-da5e-11ef-9944-578fa0af1991"
+      "id" : "bf180620-d8ce-11ef-838d-bd00ce776055"
     },
     "externalId" : null,
     "firmwareId" : null,
     "id" : {
       "entityType" : "DEVICE",
-      "id" : "9c461fb0-da68-11ef-9944-578fa0af1991"
+      "id" : "e2eba3d1-db13-11ef-9944-578fa0af1991"
     },
-    "label" : "",
-    "name" : "Heat pump intake valve",
+    "label" : null,
+    "name" : "Filter PH sensor",
     "softwareId" : null,
-    "type" : "Valve"
+    "type" : "default"
   },
   "credentials" : {
-    "credentialsId" : "1KGFfzYzMDSx4iN5WmLD",
+    "credentialsId" : "H5K5kuAyIX2SJpC2y9pM",
     "credentialsType" : "ACCESS_TOKEN",
     "credentialsValue" : null
   },
   "relations" : [ {
+    "additionalInfo" : null,
+    "from" : {
+      "entityType" : "DEVICE",
+      "id" : "86ac5be0-da56-11ef-9944-578fa0af1991"
+    },
+    "to" : {
+      "entityType" : "DEVICE",
+      "id" : "e2eba3d1-db13-11ef-9944-578fa0af1991"
+    },
+    "type" : "Created",
+    "typeGroup" : "COMMON",
+    "version" : 94
+  }, {
     "additionalInfo" : null,
     "from" : {
       "entityType" : "ASSET",
@@ -47,11 +57,11 @@
     },
     "to" : {
       "entityType" : "DEVICE",
-      "id" : "9c461fb0-da68-11ef-9944-578fa0af1991"
+      "id" : "e2eba3d1-db13-11ef-9944-578fa0af1991"
     },
     "type" : "Contains",
     "typeGroup" : "COMMON",
-    "version" : 101
+    "version" : 100
   } ],
   "attributes" : {
     "SERVER_SCOPE" : [ {
@@ -83,8 +93,8 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "lastConnectTime",
-      "lastUpdateTs" : 1737806392921,
-      "longValue" : 1737806392921,
+      "lastUpdateTs" : 1737806393011,
+      "longValue" : 1737806393011,
       "strValue" : null
     }, {
       "booleanValue" : null,

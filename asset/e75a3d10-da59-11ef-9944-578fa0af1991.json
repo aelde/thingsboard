@@ -21,9 +21,171 @@
     "name" : "Swimming pool SCADA system",
     "type" : "Swimming pool SCADA system"
   },
-  "relations" : [ ],
+  "relations" : [ {
+    "additionalInfo" : null,
+    "from" : {
+      "entityType" : "ASSET",
+      "id" : "e75a3d10-da59-11ef-9944-578fa0af1991"
+    },
+    "to" : {
+      "entityType" : "DEVICE",
+      "id" : "904464b0-da68-11ef-9944-578fa0af1991"
+    },
+    "type" : "Contains",
+    "typeGroup" : "COMMON",
+    "version" : 102
+  }, {
+    "additionalInfo" : null,
+    "from" : {
+      "entityType" : "ASSET",
+      "id" : "e75a3d10-da59-11ef-9944-578fa0af1991"
+    },
+    "to" : {
+      "entityType" : "DEVICE",
+      "id" : "9c461fb0-da68-11ef-9944-578fa0af1991"
+    },
+    "type" : "Contains",
+    "typeGroup" : "COMMON",
+    "version" : 101
+  }, {
+    "additionalInfo" : null,
+    "from" : {
+      "entityType" : "ASSET",
+      "id" : "e75a3d10-da59-11ef-9944-578fa0af1991"
+    },
+    "to" : {
+      "entityType" : "DEVICE",
+      "id" : "e2c4e1f0-db13-11ef-9944-578fa0af1991"
+    },
+    "type" : "Contains",
+    "typeGroup" : "COMMON",
+    "version" : 99
+  }, {
+    "additionalInfo" : null,
+    "from" : {
+      "entityType" : "ASSET",
+      "id" : "e75a3d10-da59-11ef-9944-578fa0af1991"
+    },
+    "to" : {
+      "entityType" : "DEVICE",
+      "id" : "e2dc6190-db13-11ef-9944-578fa0af1991"
+    },
+    "type" : "Contains",
+    "typeGroup" : "COMMON",
+    "version" : 97
+  }, {
+    "additionalInfo" : null,
+    "from" : {
+      "entityType" : "ASSET",
+      "id" : "e75a3d10-da59-11ef-9944-578fa0af1991"
+    },
+    "to" : {
+      "entityType" : "DEVICE",
+      "id" : "e2e00b10-db13-11ef-9944-578fa0af1991"
+    },
+    "type" : "Contains",
+    "typeGroup" : "COMMON",
+    "version" : 98
+  }, {
+    "additionalInfo" : null,
+    "from" : {
+      "entityType" : "ASSET",
+      "id" : "e75a3d10-da59-11ef-9944-578fa0af1991"
+    },
+    "to" : {
+      "entityType" : "DEVICE",
+      "id" : "e2e3dba0-db13-11ef-9944-578fa0af1991"
+    },
+    "type" : "Contains",
+    "typeGroup" : "COMMON",
+    "version" : 96
+  }, {
+    "additionalInfo" : null,
+    "from" : {
+      "entityType" : "ASSET",
+      "id" : "e75a3d10-da59-11ef-9944-578fa0af1991"
+    },
+    "to" : {
+      "entityType" : "DEVICE",
+      "id" : "e2eba3d0-db13-11ef-9944-578fa0af1991"
+    },
+    "type" : "Contains",
+    "typeGroup" : "COMMON",
+    "version" : 95
+  }, {
+    "additionalInfo" : null,
+    "from" : {
+      "entityType" : "ASSET",
+      "id" : "e75a3d10-da59-11ef-9944-578fa0af1991"
+    },
+    "to" : {
+      "entityType" : "DEVICE",
+      "id" : "e2eba3d1-db13-11ef-9944-578fa0af1991"
+    },
+    "type" : "Contains",
+    "typeGroup" : "COMMON",
+    "version" : 100
+  }, {
+    "additionalInfo" : null,
+    "from" : {
+      "entityType" : "ASSET",
+      "id" : "e75a3d10-da59-11ef-9944-578fa0af1991"
+    },
+    "to" : {
+      "entityType" : "DEVICE",
+      "id" : "292c7c90-da68-11ef-9944-578fa0af1991"
+    },
+    "type" : "Contains",
+    "typeGroup" : "COMMON",
+    "version" : 104
+  }, {
+    "additionalInfo" : null,
+    "from" : {
+      "entityType" : "ASSET",
+      "id" : "e75a3d10-da59-11ef-9944-578fa0af1991"
+    },
+    "to" : {
+      "entityType" : "DEVICE",
+      "id" : "3e306e30-da68-11ef-9944-578fa0af1991"
+    },
+    "type" : "Contains",
+    "typeGroup" : "COMMON",
+    "version" : 103
+  } ],
   "attributes" : {
     "SERVER_SCOPE" : [ {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "heatPumpIntakeValveOpened",
+      "lastUpdateTs" : 1737806962070,
+      "longValue" : 1,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "heatPumpOutgoingValveOpened",
+      "lastUpdateTs" : 1737806992080,
+      "longValue" : 1,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "poolIntakeValveOpened",
+      "lastUpdateTs" : 1737807022046,
+      "longValue" : 1,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "poolWeirValveOpened",
+      "lastUpdateTs" : 1737807022033,
+      "longValue" : 1,
+      "strValue" : null
+    }, {
       "booleanValue" : false,
       "doubleValue" : null,
       "jsonValue" : null,

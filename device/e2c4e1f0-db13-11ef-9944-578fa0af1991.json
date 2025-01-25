@@ -2,9 +2,6 @@
   "entityType" : "DEVICE",
   "entity" : {
     "additionalInfo" : {
-      "gateway" : false,
-      "overwriteActivityTime" : false,
-      "description" : "",
       "lastConnectedGateway" : "86ac5be0-da56-11ef-9944-578fa0af1991"
     },
     "customerId" : {
@@ -21,25 +18,38 @@
     },
     "deviceProfileId" : {
       "entityType" : "DEVICE_PROFILE",
-      "id" : "6ea17230-da5e-11ef-9944-578fa0af1991"
+      "id" : "bf180620-d8ce-11ef-838d-bd00ce776055"
     },
     "externalId" : null,
     "firmwareId" : null,
     "id" : {
       "entityType" : "DEVICE",
-      "id" : "9c461fb0-da68-11ef-9944-578fa0af1991"
+      "id" : "e2c4e1f0-db13-11ef-9944-578fa0af1991"
     },
-    "label" : "",
-    "name" : "Heat pump intake valve",
+    "label" : null,
+    "name" : "Heat pump",
     "softwareId" : null,
-    "type" : "Valve"
+    "type" : "default"
   },
   "credentials" : {
-    "credentialsId" : "1KGFfzYzMDSx4iN5WmLD",
+    "credentialsId" : "z6iv4lUlIffjMrq9EzUc",
     "credentialsType" : "ACCESS_TOKEN",
     "credentialsValue" : null
   },
   "relations" : [ {
+    "additionalInfo" : null,
+    "from" : {
+      "entityType" : "DEVICE",
+      "id" : "86ac5be0-da56-11ef-9944-578fa0af1991"
+    },
+    "to" : {
+      "entityType" : "DEVICE",
+      "id" : "e2c4e1f0-db13-11ef-9944-578fa0af1991"
+    },
+    "type" : "Created",
+    "typeGroup" : "COMMON",
+    "version" : 89
+  }, {
     "additionalInfo" : null,
     "from" : {
       "entityType" : "ASSET",
@@ -47,11 +57,11 @@
     },
     "to" : {
       "entityType" : "DEVICE",
-      "id" : "9c461fb0-da68-11ef-9944-578fa0af1991"
+      "id" : "e2c4e1f0-db13-11ef-9944-578fa0af1991"
     },
     "type" : "Contains",
     "typeGroup" : "COMMON",
-    "version" : 101
+    "version" : 99
   } ],
   "attributes" : {
     "SERVER_SCOPE" : [ {
@@ -83,16 +93,16 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "lastConnectTime",
-      "lastUpdateTs" : 1737806392921,
-      "longValue" : 1737806392921,
+      "lastUpdateTs" : 1737806392770,
+      "longValue" : 1737806392770,
       "strValue" : null
     }, {
       "booleanValue" : null,
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "lastDisconnectTime",
-      "lastUpdateTs" : 1737808756932,
-      "longValue" : 1737808756932,
+      "lastUpdateTs" : 1737808756918,
+      "longValue" : 1737808756918,
       "strValue" : null
     } ],
     "SHARED_SCOPE" : [ ]

@@ -131,7 +131,7 @@
             "configMode" : "advanced",
             "targetDevice" : {
               "type" : "device",
-              "deviceId" : "48a42f80-a12b-11ef-b5a8-ed1aed9a651f"
+              "deviceId" : "e2eba3d0-db13-11ef-9944-578fa0af1991"
             },
             "titleColor" : null,
             "borderRadius" : "0px",
@@ -265,7 +265,7 @@
             "configMode" : "advanced",
             "targetDevice" : {
               "type" : "device",
-              "deviceId" : "492e4710-a12b-11ef-b5a8-ed1aed9a651f"
+              "deviceId" : "292c7c90-da68-11ef-9944-578fa0af1991"
             },
             "titleColor" : null,
             "borderRadius" : "0px",
@@ -399,7 +399,7 @@
             "configMode" : "advanced",
             "targetDevice" : {
               "type" : "device",
-              "deviceId" : "49421d30-a12b-11ef-b5a8-ed1aed9a651f"
+              "deviceId" : "dd776210-da67-11ef-9944-578fa0af1991"
             },
             "titleColor" : null,
             "borderRadius" : "0px",
@@ -596,7 +596,7 @@
             "configMode" : "advanced",
             "targetDevice" : {
               "type" : "device",
-              "deviceId" : "4964c060-a12b-11ef-b5a8-ed1aed9a651f"
+              "deviceId" : "acb53c60-da67-11ef-9944-578fa0af1991"
             },
             "titleColor" : null,
             "borderRadius" : "0px",
@@ -730,7 +730,7 @@
             "configMode" : "basic",
             "targetDevice" : {
               "type" : "device",
-              "deviceId" : "496869e0-a12b-11ef-b5a8-ed1aed9a651f"
+              "deviceId" : "9d9f3c80-da67-11ef-9944-578fa0af1991"
             },
             "titleColor" : null,
             "borderRadius" : "0px",
@@ -864,7 +864,7 @@
             "configMode" : "advanced",
             "targetDevice" : {
               "type" : "device",
-              "deviceId" : "48eef420-a12b-11ef-b5a8-ed1aed9a651f"
+              "deviceId" : "9c461fb0-da68-11ef-9944-578fa0af1991"
             },
             "titleColor" : null,
             "borderRadius" : "0px",
@@ -998,7 +998,7 @@
             "configMode" : "advanced",
             "targetDevice" : {
               "type" : "device",
-              "deviceId" : "48feab90-a12b-11ef-b5a8-ed1aed9a651f"
+              "deviceId" : "904464b0-da68-11ef-9944-578fa0af1991"
             },
             "titleColor" : null,
             "borderRadius" : "0px",
@@ -1132,7 +1132,7 @@
             "configMode" : "advanced",
             "targetDevice" : {
               "type" : "device",
-              "deviceId" : "48c720d0-a12b-11ef-b5a8-ed1aed9a651f"
+              "deviceId" : "e2e00b10-db13-11ef-9944-578fa0af1991"
             },
             "titleColor" : null,
             "borderRadius" : "0px",
@@ -1588,7 +1588,7 @@
             "configMode" : "basic",
             "targetDevice" : {
               "type" : "device",
-              "deviceId" : "4910fb10-a12b-11ef-b5a8-ed1aed9a651f"
+              "deviceId" : "3e306e30-da68-11ef-9944-578fa0af1991"
             },
             "titleColor" : null,
             "borderRadius" : "0px",
@@ -1736,7 +1736,7 @@
             "configMode" : "basic",
             "targetDevice" : {
               "type" : "device",
-              "deviceId" : "48aabf30-a12b-11ef-b5a8-ed1aed9a651f"
+              "deviceId" : "e2e3dba0-db13-11ef-9944-578fa0af1991"
             },
             "titleColor" : null,
             "borderRadius" : null,
@@ -3818,7 +3818,7 @@
             "configMode" : "basic",
             "targetDevice" : {
               "type" : "device",
-              "deviceId" : "48d48e50-a12b-11ef-b5a8-ed1aed9a651f"
+              "deviceId" : "e2c4e1f0-db13-11ef-9944-578fa0af1991"
             },
             "titleColor" : null,
             "borderRadius" : "0px",
@@ -3838,7 +3838,7 @@
             "datasources" : [ {
               "type" : "device",
               "name" : "",
-              "deviceId" : "48d48e50-a12b-11ef-b5a8-ed1aed9a651f",
+              "deviceId" : "e2c4e1f0-db13-11ef-9944-578fa0af1991",
               "dataKeys" : [ {
                 "name" : "ambientTemperature",
                 "type" : "timeseries",
@@ -4412,7 +4412,7 @@
             "configMode" : "basic",
             "targetDevice" : {
               "type" : "device",
-              "deviceId" : "49564170-a12b-11ef-b5a8-ed1aed9a651f"
+              "deviceId" : "c34f1040-da67-11ef-9944-578fa0af1991"
             },
             "titleColor" : null,
             "borderRadius" : "0px",
@@ -10211,7 +10211,7 @@
             "configMode" : "basic",
             "targetDevice" : {
               "type" : "device",
-              "deviceId" : "48c0df40-a12b-11ef-b5a8-ed1aed9a651f"
+              "deviceId" : "904464b0-da68-11ef-9944-578fa0af1991"
             },
             "titleColor" : null,
             "borderRadius" : "0px",
@@ -12125,7 +12125,7 @@
             "configMode" : "basic",
             "targetDevice" : {
               "type" : "device",
-              "deviceId" : "48c0df40-a12b-11ef-b5a8-ed1aed9a651f"
+              "deviceId" : "e2dc6190-db13-11ef-9944-578fa0af1991"
             },
             "titleColor" : null,
             "borderRadius" : "0px",
@@ -12443,7 +12443,7 @@
             "configMode" : "basic",
             "targetDevice" : {
               "type" : "device",
-              "deviceId" : "48aabf30-a12b-11ef-b5a8-ed1aed9a651f"
+              "deviceId" : "e2e3dba0-db13-11ef-9944-578fa0af1991"
             },
             "titleColor" : null,
             "borderRadius" : "0px",
@@ -15240,7 +15240,7 @@
             "configMode" : "basic",
             "targetDevice" : {
               "type" : "device",
-              "deviceId" : "49564170-a12b-11ef-b5a8-ed1aed9a651f"
+              "deviceId" : "c34f1040-da67-11ef-9944-578fa0af1991"
             },
             "titleColor" : null,
             "borderRadius" : "0px",
@@ -19516,7 +19516,7 @@
             "datasources" : [ {
               "type" : "device",
               "name" : "",
-              "deviceId" : "49564170-a12b-11ef-b5a8-ed1aed9a651f",
+              "deviceId" : "c34f1040-da67-11ef-9944-578fa0af1991",
               "dataKeys" : [ {
                 "name" : "waterLevel",
                 "type" : "timeseries",
@@ -19704,7 +19704,7 @@
             "datasources" : [ {
               "type" : "device",
               "name" : "",
-              "deviceId" : "48d48e50-a12b-11ef-b5a8-ed1aed9a651f",
+              "deviceId" : "e2c4e1f0-db13-11ef-9944-578fa0af1991",
               "dataKeys" : [ {
                 "name" : "targetTemperature",
                 "type" : "timeseries",
@@ -19930,7 +19930,7 @@
             "datasources" : [ {
               "type" : "device",
               "name" : "",
-              "deviceId" : "48d48e50-a12b-11ef-b5a8-ed1aed9a651f",
+              "deviceId" : "e2c4e1f0-db13-11ef-9944-578fa0af1991",
               "dataKeys" : [ {
                 "name" : "currentInTemperature",
                 "type" : "timeseries",
@@ -21293,7 +21293,7 @@
             "datasources" : [ {
               "type" : "device",
               "name" : null,
-              "deviceId" : "48947810-a12b-11ef-b5a8-ed1aed9a651f",
+              "deviceId" : "86ac5be0-da56-11ef-9944-578fa0af1991",
               "entityAliasId" : "a7e6161c-d3cd-1e2f-0537-d1c770aae4a4",
               "filterId" : null,
               "dataKeys" : [ {
@@ -29864,7 +29864,7 @@
             "resolveMultiple" : false,
             "singleEntity" : {
               "entityType" : "ASSET",
-              "id" : "4512a450-a12b-11ef-b5a8-ed1aed9a651f"
+              "id" : "e75a3d10-da59-11ef-9944-578fa0af1991"
             }
           }
         }
