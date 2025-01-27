@@ -1,0 +1,100 @@
+{
+  "entityType" : "DEVICE",
+  "entity" : {
+    "additionalInfo" : {
+      "gateway" : true
+    },
+    "customerId" : {
+      "entityType" : "CUSTOMER",
+      "id" : "13814000-1dd2-11b2-8080-808080808080"
+    },
+    "deviceData" : {
+      "configuration" : {
+        "type" : "DEFAULT"
+      },
+      "transportConfiguration" : {
+        "type" : "DEFAULT"
+      }
+    },
+    "deviceProfileId" : {
+      "entityType" : "DEVICE_PROFILE",
+      "id" : "bf180620-d8ce-11ef-838d-bd00ce776055"
+    },
+    "externalId" : null,
+    "firmwareId" : null,
+    "id" : {
+      "entityType" : "DEVICE",
+      "id" : "b1240bd0-dc62-11ef-8b8b-c3d029316a07"
+    },
+    "label" : "",
+    "name" : "modbus-rtu-xilinx",
+    "softwareId" : null,
+    "type" : "default"
+  },
+  "credentials" : {
+    "credentialsId" : "wkeJ1WeWGnGHXcYiQ7N0",
+    "credentialsType" : "ACCESS_TOKEN",
+    "credentialsValue" : null
+  },
+  "relations" : [ ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ {
+      "booleanValue" : true,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "active",
+      "lastUpdateTs" : 1737955552837,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "inactivityAlarmTime",
+      "lastUpdateTs" : 1737955291324,
+      "longValue" : 1737955291324,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "lastActivityTime",
+      "lastUpdateTs" : 1737955600688,
+      "longValue" : 1737955598059,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "lastConnectTime",
+      "lastUpdateTs" : 1737955552836,
+      "longValue" : 1737955552836,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "lastDisconnectTime",
+      "lastUpdateTs" : 1737955598074,
+      "longValue" : 1737955598074,
+      "strValue" : null
+    } ],
+    "SHARED_SCOPE" : [ {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : "[\"wj-p1\"]",
+      "key" : "active_connectors",
+      "lastUpdateTs" : 1737950231260,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : "{\"mode\":\"advanced\",\"name\":\"wj-p1\",\"type\":\"modbus\",\"enableRemoteLogging\":true,\"logLevel\":\"INFO\",\"configuration\":\"wjP1.json\",\"configurationJson\":{\"master\":{\"slaves\":[{\"method\":\"rtu\",\"baudrate\":9600,\"stopbits\":1,\"bytesize\":8,\"parity\":\"N\",\"strict\":true,\"unitId\":1,\"deviceName\":\"wj-ppp1\",\"deviceType\":\"default\",\"timeout\":35,\"byteOrder\":\"BIG\",\"wordOrder\":\"BIG\",\"retries\":true,\"retryOnEmpty\":true,\"retryOnInvalid\":true,\"pollPeriod\":5000,\"connectAttemptTimeMs\":5000,\"connectAttemptCount\":5,\"waitAfterFailedAttemptsMs\":300000,\"reportStrategy\":{\"type\":\"ON_REPORT_PERIOD\",\"reportPeriod\":3000},\"type\":\"serial\",\"attributes\":[{\"tag\":\"f\",\"type\":\"16int\",\"address\":10000,\"objectsCount\":1,\"functionCode\":3},{\"tag\":\"fre\",\"type\":\"bytes\",\"address\":10001,\"objectsCount\":1,\"functionCode\":3}],\"timeseries\":[],\"attributeUpdates\":[],\"rpc\":[],\"port\":\"/dev/ttyUSB0\"}]},\"name\":\"wj-p1\",\"id\":\"e7338bcb-772e-43f9-b7da-5e5dbccbfd2a\",\"logLevel\":\"INFO\",\"enableRemoteLogging\":true,\"configVersion\":\"3.6.3\"},\"configVersion\":\"3.6.3\",\"ts\":1737955379106}",
+      "key" : "wj-p1",
+      "lastUpdateTs" : 1737955379112,
+      "longValue" : null,
+      "strValue" : null
+    } ]
+  }
+}

@@ -1797,7 +1797,7 @@
             "alarmSource" : {
               "type" : "device",
               "name" : "",
-              "deviceId" : "48aabf30-a12b-11ef-b5a8-ed1aed9a651f",
+              "deviceId" : "e2e3dba0-db13-11ef-9944-578fa0af1991",
               "entityAliasId" : null,
               "dataKeys" : [ {
                 "name" : "createdTime",
@@ -1894,7 +1894,7 @@
             "datasources" : [ {
               "type" : "device",
               "name" : "",
-              "deviceId" : "48aabf30-a12b-11ef-b5a8-ed1aed9a651f",
+              "deviceId" : "e2e3dba0-db13-11ef-9944-578fa0af1991",
               "dataKeys" : [ {
                 "name" : "flowRate",
                 "type" : "timeseries",
@@ -2315,7 +2315,7 @@
             "datasources" : [ {
               "type" : "device",
               "name" : "",
-              "deviceId" : "48aabf30-a12b-11ef-b5a8-ed1aed9a651f",
+              "deviceId" : "e2e3dba0-db13-11ef-9944-578fa0af1991",
               "dataKeys" : [ {
                 "name" : "rotationSpeed",
                 "type" : "timeseries",
@@ -2630,7 +2630,7 @@
             "datasources" : [ {
               "type" : "device",
               "name" : "",
-              "deviceId" : "48aabf30-a12b-11ef-b5a8-ed1aed9a651f",
+              "deviceId" : "e2e3dba0-db13-11ef-9944-578fa0af1991",
               "dataKeys" : [ {
                 "name" : "powerConsumption",
                 "type" : "timeseries",
@@ -2937,7 +2937,7 @@
             "datasources" : [ {
               "type" : "device",
               "name" : "",
-              "deviceId" : "48aabf30-a12b-11ef-b5a8-ed1aed9a651f",
+              "deviceId" : "e2e3dba0-db13-11ef-9944-578fa0af1991",
               "dataKeys" : [ {
                 "name" : "temperature",
                 "type" : "timeseries",
@@ -3244,7 +3244,7 @@
             "datasources" : [ {
               "type" : "device",
               "name" : "",
-              "deviceId" : "48aabf30-a12b-11ef-b5a8-ed1aed9a651f",
+              "deviceId" : "e2e3dba0-db13-11ef-9944-578fa0af1991",
               "dataKeys" : [ {
                 "name" : "vibration",
                 "type" : "timeseries",
@@ -4434,7 +4434,7 @@
             "datasources" : [ {
               "type" : "device",
               "name" : "",
-              "deviceId" : "48c0df40-a12b-11ef-b5a8-ed1aed9a651f",
+              "deviceId" : "e2dc6190-db13-11ef-9944-578fa0af1991",
               "dataKeys" : [ {
                 "name" : "rotationSpeed",
                 "type" : "timeseries",
@@ -4750,7 +4750,7 @@
             "datasources" : [ {
               "type" : "device",
               "name" : "",
-              "deviceId" : "48c0df40-a12b-11ef-b5a8-ed1aed9a651f",
+              "deviceId" : "e2dc6190-db13-11ef-9944-578fa0af1991",
               "dataKeys" : [ {
                 "name" : "vibration",
                 "type" : "timeseries",
@@ -5054,7 +5054,7 @@
             "datasources" : [ {
               "type" : "device",
               "name" : "",
-              "deviceId" : "48c0df40-a12b-11ef-b5a8-ed1aed9a651f",
+              "deviceId" : "e2dc6190-db13-11ef-9944-578fa0af1991",
               "dataKeys" : [ {
                 "name" : "pressure",
                 "type" : "timeseries",
@@ -5631,7 +5631,7 @@
             "configMode" : "advanced",
             "targetDevice" : {
               "type" : "device",
-              "deviceId" : "48d48e50-a12b-11ef-b5a8-ed1aed9a651f"
+              "deviceId" : "e2c4e1f0-db13-11ef-9944-578fa0af1991"
             },
             "titleColor" : null,
             "borderRadius" : "5px",
@@ -5696,7 +5696,7 @@
             "alarmSource" : {
               "type" : "device",
               "name" : "",
-              "deviceId" : "48d48e50-a12b-11ef-b5a8-ed1aed9a651f",
+              "deviceId" : "e2c4e1f0-db13-11ef-9944-578fa0af1991",
               "entityAliasId" : null,
               "dataKeys" : [ {
                 "name" : "createdTime",
@@ -5793,7 +5793,7 @@
             "datasources" : [ {
               "type" : "device",
               "name" : "",
-              "deviceId" : "48d48e50-a12b-11ef-b5a8-ed1aed9a651f",
+              "deviceId" : "e2c4e1f0-db13-11ef-9944-578fa0af1991",
               "dataKeys" : [ {
                 "name" : "rotationSpeed",
                 "type" : "timeseries",
@@ -6101,7 +6101,7 @@
             "datasources" : [ {
               "type" : "device",
               "name" : "",
-              "deviceId" : "48d48e50-a12b-11ef-b5a8-ed1aed9a651f",
+              "deviceId" : "e2c4e1f0-db13-11ef-9944-578fa0af1991",
               "dataKeys" : [ {
                 "name" : "vibration",
                 "type" : "timeseries",
@@ -6405,7 +6405,7 @@
             "datasources" : [ {
               "type" : "device",
               "name" : "",
-              "deviceId" : "48d48e50-a12b-11ef-b5a8-ed1aed9a651f",
+              "deviceId" : "e2c4e1f0-db13-11ef-9944-578fa0af1991",
               "dataKeys" : [ {
                 "name" : "refrigerantPressure",
                 "type" : "timeseries",
@@ -6713,7 +6713,7 @@
             "datasources" : [ {
               "type" : "device",
               "name" : "",
-              "deviceId" : "48d48e50-a12b-11ef-b5a8-ed1aed9a651f",
+              "deviceId" : "e2c4e1f0-db13-11ef-9944-578fa0af1991",
               "dataKeys" : [ {
                 "name" : "powerConsumption",
                 "type" : "timeseries",
@@ -7021,7 +7021,7 @@
             "datasources" : [ {
               "type" : "device",
               "name" : "",
-              "deviceId" : "48d48e50-a12b-11ef-b5a8-ed1aed9a651f",
+              "deviceId" : "e2c4e1f0-db13-11ef-9944-578fa0af1991",
               "dataKeys" : [ {
                 "name" : "compressorTemperature",
                 "type" : "timeseries",
@@ -7329,7 +7329,7 @@
             "datasources" : [ {
               "type" : "device",
               "name" : "",
-              "deviceId" : "48d48e50-a12b-11ef-b5a8-ed1aed9a651f",
+              "deviceId" : "e2c4e1f0-db13-11ef-9944-578fa0af1991",
               "dataKeys" : [ {
                 "name" : "targetTemperature",
                 "type" : "timeseries",
@@ -10208,10 +10208,10 @@
             "titleIcon" : "mdi:lightbulb-outline",
             "iconColor" : "rgba(0, 0, 0, 0.87)",
             "iconSize" : "24px",
-            "configMode" : "basic",
+            "configMode" : "advanced",
             "targetDevice" : {
               "type" : "device",
-              "deviceId" : "904464b0-da68-11ef-9944-578fa0af1991"
+              "deviceId" : "e2dc6190-db13-11ef-9944-578fa0af1991"
             },
             "titleColor" : null,
             "borderRadius" : "0px",
@@ -12276,7 +12276,7 @@
             "configMode" : "advanced",
             "targetDevice" : {
               "type" : "device",
-              "deviceId" : "48c0df40-a12b-11ef-b5a8-ed1aed9a651f"
+              "deviceId" : "e2dc6190-db13-11ef-9944-578fa0af1991"
             },
             "titleColor" : null,
             "borderRadius" : "5px",
@@ -12612,7 +12612,7 @@
             "configMode" : "advanced",
             "targetDevice" : {
               "type" : "device",
-              "deviceId" : "48aabf30-a12b-11ef-b5a8-ed1aed9a651f"
+              "deviceId" : "e2e3dba0-db13-11ef-9944-578fa0af1991"
             },
             "titleColor" : null,
             "borderRadius" : "5px",
@@ -12632,7 +12632,7 @@
             "datasources" : [ {
               "type" : "device",
               "name" : "",
-              "deviceId" : "48c0df40-a12b-11ef-b5a8-ed1aed9a651f",
+              "deviceId" : "e2dc6190-db13-11ef-9944-578fa0af1991",
               "dataKeys" : [ {
                 "name" : "flowRate",
                 "type" : "timeseries",
@@ -13054,7 +13054,7 @@
             "datasources" : [ {
               "type" : "device",
               "name" : "",
-              "deviceId" : "48c0df40-a12b-11ef-b5a8-ed1aed9a651f",
+              "deviceId" : "e2dc6190-db13-11ef-9944-578fa0af1991",
               "dataKeys" : [ {
                 "name" : "flowRate",
                 "type" : "timeseries",
@@ -13476,7 +13476,7 @@
             "datasources" : [ {
               "type" : "device",
               "name" : "",
-              "deviceId" : "48e15f90-a12b-11ef-b5a8-ed1aed9a651f",
+              "deviceId" : "e2eba3d1-db13-11ef-9944-578fa0af1991",
               "dataKeys" : [ {
                 "name" : "phLevel",
                 "type" : "timeseries",
@@ -13783,7 +13783,7 @@
             "datasources" : [ {
               "type" : "device",
               "name" : "",
-              "deviceId" : "48d48e50-a12b-11ef-b5a8-ed1aed9a651f",
+              "deviceId" : "e2c4e1f0-db13-11ef-9944-578fa0af1991",
               "dataKeys" : [ {
                 "name" : "currentInTemperature",
                 "type" : "timeseries",
@@ -19107,7 +19107,7 @@
             "datasources" : [ {
               "type" : "device",
               "name" : "",
-              "deviceId" : "48d48e50-a12b-11ef-b5a8-ed1aed9a651f",
+              "deviceId" : "e2c4e1f0-db13-11ef-9944-578fa0af1991",
               "dataKeys" : [ {
                 "name" : "lastMaintenanceDate",
                 "type" : "attribute",
@@ -19239,7 +19239,7 @@
             "datasources" : [ {
               "type" : "device",
               "name" : "",
-              "deviceId" : "48c0df40-a12b-11ef-b5a8-ed1aed9a651f",
+              "deviceId" : "e2dc6190-db13-11ef-9944-578fa0af1991",
               "dataKeys" : [ {
                 "name" : "lastMaintenanceDate",
                 "type" : "attribute",
@@ -19384,7 +19384,7 @@
             "datasources" : [ {
               "type" : "device",
               "name" : "",
-              "deviceId" : "48aabf30-a12b-11ef-b5a8-ed1aed9a651f",
+              "deviceId" : "e2e3dba0-db13-11ef-9944-578fa0af1991",
               "dataKeys" : [ {
                 "name" : "lastMaintenanceDate",
                 "type" : "attribute",
@@ -20452,7 +20452,7 @@
             "datasources" : [ {
               "type" : "device",
               "name" : "",
-              "deviceId" : "48d48e50-a12b-11ef-b5a8-ed1aed9a651f",
+              "deviceId" : "e2c4e1f0-db13-11ef-9944-578fa0af1991",
               "dataKeys" : [ {
                 "name" : "targetTemperature",
                 "type" : "timeseries",
@@ -20873,7 +20873,7 @@
             "datasources" : [ {
               "type" : "device",
               "name" : "",
-              "deviceId" : "48d48e50-a12b-11ef-b5a8-ed1aed9a651f",
+              "deviceId" : "e2c4e1f0-db13-11ef-9944-578fa0af1991",
               "dataKeys" : [ {
                 "name" : "ambientTemperature",
                 "type" : "timeseries",
@@ -21421,7 +21421,7 @@
             "datasources" : [ {
               "type" : "device",
               "name" : "",
-              "deviceId" : "49564170-a12b-11ef-b5a8-ed1aed9a651f",
+              "deviceId" : "c34f1040-da67-11ef-9944-578fa0af1991",
               "dataKeys" : [ {
                 "name" : "waterLevel",
                 "type" : "timeseries",
@@ -21846,7 +21846,7 @@
             "datasources" : [ {
               "type" : "device",
               "name" : "",
-              "deviceId" : "49564170-a12b-11ef-b5a8-ed1aed9a651f",
+              "deviceId" : "c34f1040-da67-11ef-9944-578fa0af1991",
               "dataKeys" : [ {
                 "name" : "waterLevel",
                 "type" : "timeseries",
